@@ -14,5 +14,7 @@
   * Source code -> compiler -> Machine code concepts [ clang & make ]
   * Introduction to C programming
   * Access cloud IDE by harvard for coding - https://ide.cs50.io/
+  * Variable, int, char, strings, array, loops, functions
+  * cryptography
   * 
   
