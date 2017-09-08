@@ -16,5 +16,9 @@
   * Access cloud IDE by harvard for coding - https://ide.cs50.io/
   * Variable, int, char, strings, array, loops, functions
   * cryptography
-  * ASCII & Unicode
+  * ASCII - 7 bit represent & 1 bit for parity check 0-127 [ to represet 128 chracters such as [0-9] [a-z] [A-Z] [-*&^>...etc] ] 
+  * Unicode - for print other language characters like tamil, chineesh, karnataka
+  * small letter to capital letter conversion program by using ASCII values
+  * command line arguments
+  * 
   
