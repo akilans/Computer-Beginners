@@ -35,4 +35,10 @@
   * https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html
   * merge sort - sort right half elements & sort left half elements & merge those elements & sort
   * Recursive function call
-  
+ 
+ # CS50 - 2016 - week 4 - Memory
+ 
+  * String is not a data type - It is a collections of characters in an array
+  * Pointer - Address of the memory
+  * int* - int refers data type of variable in that address
+  * 
